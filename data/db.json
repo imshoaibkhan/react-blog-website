@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Evolution of E-commerce",
+      "datetime": "October 13, 2023 6:32:18 PM",
+      "body": "Discover the transformation of the retail industry as we explore the evolution of e-commerce. Uncover the key trends and technologies that have reshaped the way we shop and do business online.\""
+    },
+    {
+      "id": 2,
+      "title": "The Magic of Virtual Reality",
+      "datetime": "October 13, 2023 6:32:39 PM",
+      "body": "Step into the enchanting realm of virtual reality and witness the merging of real and digital worlds. Dive into the exciting applications and potential of this groundbreaking technology."
+    },
+    {
+      "id": 3,
+      "title": "what is React??",
+      "datetime": "October 14, 2023 10:11:33 AM",
+      "body": "React is a JavaScript library that has taken the web development world by storm. It allows developers to create complex user interfaces with ease, making it one of the most popular front-end frameworks in use today.\n\nOne of the key benefits of React is its use of a virtual DOM. This means that when a user interacts with a React application, only the specific components that need to be updated are re-rendered, rather than the entire page. This results in faster and more efficient performance, as well as a smoother user experience."
+    },
+    {
+      "id": 4,
+      "title": "who are we?",
+      "datetime": "October 15, 2023 9:02:04 AM",
+      "body": "we are developers who makes people ideo into websites!\n"
+    }
+  ]
+}
